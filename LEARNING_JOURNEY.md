@@ -57,7 +57,7 @@ Hoàn thành **100%** các mốc kỹ thuật, đính kèm chứng chỉ vào `C
 | **01** | [Kiến thức cơ bản về Blockchain](https://github.com/Cyfrin/foundry-full-course-cu#course-blockchain-basics) & [Lưu trữ đơn giản](https://github.com/Cyfrin/foundry-full-course-cu#solidity-101-section-1-simple-storage) | Cú pháp, kiểu dữ liệu, Mapping, Struct, Storage layout | ✅ [PR #1](https://github.com/davictran76/cyfrin-foundry-course/pull/1) | ✅ [Sepolia](https://sepolia.etherscan.io/address/0xBeBD5D74A8A9030647B41710b53106Af36e1Ba15#code) |
 | **02** | [Remix Storage Factory](https://github.com/Cyfrin/foundry-full-course-cu#solidity-101-section-2--remix-storage-factory) | Factory pattern, tương tác ABI, Kế thừa & Overrides | ✅ [PR #2](https://github.com/davictran76/cyfrin-foundry-course/pull/2) | ✅ [Sepolia](https://sepolia.etherscan.io/address/0xf16aE053a4ba063d2f3d9a3Ab6D0F8E5bdccB585#code) |
 | **03** | [Remix Fund Me](https://github.com/Cyfrin/foundry-full-course-cu#solidity-101-section-3-remix-fund-me) | Chainlink Data Feeds, Revert, Payable, CEI pattern | ✅ [PR #3](https://github.com/davictran76/cyfrin-foundry-course/pull/3) | ✅ [Sepolia](https://sepolia.etherscan.io/address/0x2B0e2300a1910aDcDFEe20Df95101B58C86BF95d#code) |
-| **04** | [Gợi ý & Hỏi đáp AI](https://github.com/Cyfrin/foundry-full-course-cu#solidity-101-section-4-ai-prompting-asking-questions-and-getting-help) | Kỹ năng debug prompt, tra cứu tài liệu kỹ thuật | [ ] Chờ nộp | [ ] Pending |
+| **04** | [Gợi ý & Hỏi đáp AI](https://github.com/Cyfrin/foundry-full-course-cu#solidity-101-section-4-ai-prompting-asking-questions-and-getting-help) | Kỹ năng debug prompt, tra cứu tài liệu kỹ thuật | ✅ [PR #4](https://github.com/davictran76/cyfrin-foundry-course/pull/4) | ✅ Guide + Proof |
 | **05** | [Kho lưu trữ đơn giản Foundry](https://github.com/Cyfrin/foundry-full-course-cu#foundry-fundamentals-section-1-foundry-simple-storage) | `forge build`, `anvil`, kịch bản deploy, `cast send/call` | [ ] Chờ nộp | [ ] Pending |
 | **06** | [Quỹ đầu tư Foundry (Fund Me)](https://github.com/Cyfrin/foundry-full-course-cu#foundry-fundamentals-section-2-foundry-fund-me) | Fuzzing cơ bản, Mocking V2, Forked tests, Cheatcodes | [ ] Chờ nộp | [ ] Pending |
 | **07** | [HTML/JS Fund Me](https://github.com/Cyfrin/foundry-full-course-cu#foundry-fundamentals-section-3-htmljs-fund-me-quick-fullstack--front-end-tutorial) | Kết nối Web3 Provider (Metamask), function selectors | [ ] Chờ nộp | [ ] Pending |
@@ -72,10 +72,10 @@ Hoàn thành **100%** các mốc kỹ thuật, đính kèm chứng chỉ vào `C
 | **16** | [DAO & Quản trị](https://github.com/Cyfrin/foundry-full-course-cu#advanced-foundry-section-8-foundry-dao--governance) | Governance Tokens, Timelock, On-chain Voting | [ ] Chờ nộp | [ ] Pending |
 | **17** | [Bảo mật & Kiểm toán Hợp đồng](https://github.com/Cyfrin/foundry-full-course-cu#advanced-foundry-section-9-smart-contract-security--auditing-for-developers) | Phân tích tĩnh Slither, Invariant Testing, Audit review | [ ] Chờ nộp | [ ] Pending |
 
-**Tiến độ hiện tại:** `3 / 17` hoàn thành (`≈ 18%`)
+**Tiến độ hiện tại:** `4 / 17` hoàn thành (`≈ 24%`)
 
 ```
-Tiến độ: ███░░░░░░░░░░░░░░░░░  3/17 (18%)
+Tiến độ: ████░░░░░░░░░░░░░░░░  4/17 (24%)
 Cần đạt: ████████████████████  15/17 (85%) để mở khóa CadCAD
 ```
 
@@ -111,7 +111,7 @@ Sau khi lệnh hoàn tất → truy cập GitHub → mở Pull Request → đín
 
 | Điều kiện | Yêu cầu | Trạng thái |
 | :--- | :--- | :---: |
-| Tỷ lệ hoàn thành khoá học | ≥ 85% (≥ 15/17 phần) | [ ] 3/17 |
+| Tỷ lệ hoàn thành khoá học | ≥ 85% (≥ 15/17 phần) | [ ] 4/17 |
 | Hoàn thành bài lab DeFi Stablecoin (Phần 11) | Bắt buộc | [ ] Chưa |
 | Hoàn thành bài lab Bảo mật & Audit (Phần 17) | Bắt buộc | [ ] Chưa |
 | File `CERTIFICATES.md` đầy đủ chứng chỉ on-chain | Bắt buộc | [ ] Chưa |

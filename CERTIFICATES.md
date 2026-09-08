@@ -13,7 +13,7 @@
 | **01 — Blockchain Basics & Simple Storage** | Sepolia | [`0xBeBD5D...Ba15`](https://sepolia.etherscan.io/address/0xBeBD5D74A8A9030647B41710b53106Af36e1Ba15#code) | ✅ 2025-09-08 |
 | **02 — Remix Storage Factory** | Sepolia | [`0xf16aE0...B585`](https://sepolia.etherscan.io/address/0xf16aE053a4ba063d2f3d9a3Ab6D0F8E5bdccB585#code) | ✅ 2025-09-08 |
 | **03 — Remix Fund Me** | Sepolia | [`0x2B0e23...F95d`](https://sepolia.etherscan.io/address/0x2B0e2300a1910aDcDFEe20Df95101B58C86BF95d#code) | ✅ 2025-09-08 |
-| **04 — AI Prompting & Debugging** | Sepolia | [ ] Pending | [ ] Pending |
+| **04 — AI Prompting & Debugging** | Sepolia | [DEBUGGING_GUIDE.md](https://github.com/davictran76/cyfrin-foundry-course/blob/lesson/section-04-ai-prompting/section-04-ai-prompting/DEBUGGING_GUIDE.md) | ✅ 2025-09-08 |
 | **05 — Foundry Simple Storage** | Anvil + Sepolia | [ ] Pending | [ ] Pending |
 | **06 — Foundry Fund Me** | Sepolia | [ ] Pending | [ ] Pending |
 | **07 — HTML/JS Fund Me** | Sepolia | [ ] Pending | [ ] Pending |
