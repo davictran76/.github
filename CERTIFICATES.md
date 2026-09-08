@@ -10,7 +10,7 @@
 
 | Hạng mục | Mạng xác thực | Địa chỉ hợp đồng / Bằng chứng | Ngày hoàn thành |
 | :--- | :---: | :--- | :---: |
-| **01 — Blockchain Basics & Simple Storage** | Sepolia | [ ] Pending | [ ] Pending |
+| **01 — Blockchain Basics & Simple Storage** | Sepolia | [`0xBeBD5D...Ba15`](https://sepolia.etherscan.io/address/0xBeBD5D74A8A9030647B41710b53106Af36e1Ba15#code) | ✅ 2025-09-08 |
 | **02 — Remix Storage Factory** | Sepolia | [ ] Pending | [ ] Pending |
 | **03 — Remix Fund Me** | Sepolia | [ ] Pending | [ ] Pending |
 | **04 — AI Prompting & Debugging** | Sepolia | [ ] Pending | [ ] Pending |
